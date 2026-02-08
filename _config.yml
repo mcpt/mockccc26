@@ -1,16 +1,14 @@
-title: '<img src="/assets/images/logo_transparent.png" style="max-width: 40px; margin: 10px;"><span>MCPT Help</span>'
 description: How to use MCPT online judge
 theme: just-the-docs
 
-url: https://pinwheeeel.github.io/judge-help
+url: https://pinwheeeel.github.io
+baseurl: /judge-help
 
 aux_links:
   MCPT Site: https://mcpt.ca/
 
 permalink: /:basename
 source: src
-
-favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: mcpt
 

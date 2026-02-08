@@ -2,7 +2,7 @@
 title: Problem Page
 layout: default
 nav_order: 2
-images: /assets/images/problems
+images: "/assets/images/problems"
 ---
 <style>
 do {
@@ -19,7 +19,7 @@ dont {
 
 When you open up a problem, you will see a page like the one below:
 
-![Sample problem page]({{page.images}}/image1.png)
+![Sample problem page]({{site.baseurl}}{{page.images}}/image1.png)
 
 This page contains all the necessary information about the problem. Every problem will always contain:
 - A description of the task
@@ -29,7 +29,7 @@ This page contains all the necessary information about the problem. Every proble
 - Sample inputs and outputs
 - Time/Memory Limits
 
-![Sample problem page with various elements labelled]({{page.images}}/image2.png)
+![Sample problem page with various elements labelled]({{site.baseurl}}{{page.images}}/image2.png)
 
 <hr>
 
@@ -51,7 +51,7 @@ The scoring guidelines apply for problems that allow for partial marks/points. T
 
 Below the output specifications, there are the sample case(s). This provides an example of a valid input and a correct output. Often there is a brief explanation of how that output was derived. Below shows a sample case, with a sample input, output, and relevant explanation.
 
-![Screenshot of "Sample Input" and "Sample Output" sections of a problem]({{page.images}}/image3.png)
+![Screenshot of "Sample Input" and "Sample Output" sections of a problem]({{site.baseurl}}{{page.images}}/image3.png)
 
 {: .important}
 These samples are a great way of not only knowing the input and output format, but allow you to test your code. You **DO NOT** need to pass any sample case on the problem page in order to submit, however many problems will include the sample as a test case.

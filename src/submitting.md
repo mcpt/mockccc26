@@ -2,7 +2,7 @@
 title: Problem Submission
 layout: default
 nav_order: 3
-images: /assets/images/submitting
+images: "/assets/images/submitting"
 ---
 
 # Making a submission
@@ -16,17 +16,17 @@ On the right-hand side of the page, you will find:
 - Time/Memory limits
 - Problem type
 
-<img src="{{page.images}}/image1.png" style="max-width: 250px;" alt="Sidebar of problem page containing submission button and other information">
+<img src="{{site.baseurl}}{{page.images}}/image1.png" style="max-width: 250px;" alt="Sidebar of problem page containing submission button and other information">
 
 Once you are ready to submit your code, you may press **Submit Solution**, which will redirect you to the submission page.
 
 After pressing on **Submit Solution** on the problem page, you will be brought to the **submission page**.
 
-![Submission page with a programming language dropbox and a text box input for your code]({{page.images}}/image2.png)
+![Submission page with a programming language dropbox and a text box input for your code]({{site.baseurl}}{{page.images}}/image2.png)
 
 This is where you can type (or paste from your IDE) your code for the problem. Depending on the language, some template code may or may not be included already. You may choose to delete it or paste your code over it. It will have the default language selected as the one you set during the account creation, but can be changed for this submission (or the default can be changed through account settings). 
 
-![Submission page with various elements labelled]({{page.images}}/image3.png)
+![Submission page with various elements labelled]({{site.baseurl}}{{page.images}}/image3.png)
 
 Once you are done entering your code, you can press the submit button on the bottom right. You will be brought to a page to show how your code performed. 
 
