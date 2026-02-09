@@ -1,7 +1,7 @@
 ---
 title: Problem Page
 layout: default
-nav_order: 2
+nav_order: 3
 images: "/assets/images/problems"
 ---
 <style>
@@ -16,6 +16,8 @@ dont {
 </style>
 
 # The Problem Page
+
+<hr>
 
 When you open up a problem, you will see a page like the one below:
 

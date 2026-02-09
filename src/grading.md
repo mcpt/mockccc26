@@ -1,11 +1,13 @@
 ---
 title: Submission Grading
 layout: default
-nav_order: 4
+nav_order: 5
 images: "/assets/images/grading"
 ---
 
 # Submission Grading
+
+<hr>
 
 After you have submitted your code, you will be brought to a page to show how your code performed. 
 

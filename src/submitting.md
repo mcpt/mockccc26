@@ -1,11 +1,13 @@
 ---
 title: Problem Submission
 layout: default
-nav_order: 3
+nav_order: 4
 images: "/assets/images/submitting"
 ---
 
 # Making a submission
+
+<hr>
 
 On the right-hand side of the page, you will find:
 
@@ -22,7 +24,7 @@ Once you are ready to submit your code, you may press **Submit Solution**, which
 
 After pressing on **Submit Solution** on the problem page, you will be brought to the **submission page**.
 
-![Submission page with a programming language dropbox and a text box input for your code]({{site.baseurl}}{{page.images}}/image2.png)
+![Submission page with a programming language dropbox and a text box input for code]({{site.baseurl}}{{page.images}}/image2.png)
 
 This is where you can type (or paste from your IDE) your code for the problem. Depending on the language, some template code may or may not be included already. You may choose to delete it or paste your code over it. It will have the default language selected as the one you set during the account creation, but can be changed for this submission (or the default can be changed through account settings). 
 
@@ -32,7 +34,9 @@ Once you are done entering your code, you can press the submit button on the bot
 
 <hr>
 
-You may also view other submissions by other users by pressing **All submissions** or have a sorted list of the best submission of each user by pressing **Best submissions**.
+You may also view other submissions by other users by pressing **All submissions** or have a sorted list of the best submission of each user by pressing **Best submissions** on the top left of the screen.
+
+![Page with all the submissions to a solved problem]({{site.baseurl}}{{page.images}}/image4.png)
 
 {: .important}
 You will only see general submission information such as judge verdict or code execution time/memory, but **<u>you will not be able to view any submission code UNLESS you have fully solved the problem AND are not within a contest</u>**. You may however view any of your previous submissions with these buttons at any time.
