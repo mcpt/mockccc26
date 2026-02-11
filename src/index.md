@@ -12,7 +12,7 @@ Mackenzie’s Computer Programming Team is excited to introduce a city-wide team
 
 The competition is designed to give students an opportunity to practice for the upcoming Canadian Computing Competition (CCC), and will model it in terms of contest format, problem difficulty, and rules, with the only difference being that it is a team-based competition.
 
-The site includes information about how to use the online judge [mcpt.ca](https://mcpt.ca/), which will be used for the competition. For information about the specific competition, please refer to [the pamphlet pdf](https://mcpt.ca/).
+The site includes information about how to use the online judge [mcpt.ca](https://mcpt.ca/), which will be used for the competition. For information about the specific competition, please refer to [the pamphlet pdf]({{site.baseurl}}/assets/MockCCC26Pamphlet.pdf).
 
 On the pamphlet, you will find information regarding the competition including:
 
